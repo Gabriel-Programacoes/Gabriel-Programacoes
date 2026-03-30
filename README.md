@@ -29,6 +29,6 @@ I'm a developer focused on building modern interfaces and solving complex proble
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-vercel-omega-seven.vercel.app/api?username=Gabriel-Programacoes&show_icons=true&theme=radical&locale=en&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats-vercel-omega-seven.vercel.app/api/top-langs/?username=Gabriel-Programacoes&layout=compact&theme=radical&count_private=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats-vercel-gabriel-programacoes-projects.vercel.app/api?username=Gabriel-Programacoes&show_icons=true&theme=radical&locale=en&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats-vercel-gabriel-programacoes-projects.vercel.app/api/top-langs/?username=Gabriel-Programacoes&layout=compact&theme=radical&count_private=true" alt="Top Languages" height="150"/>
 </p>

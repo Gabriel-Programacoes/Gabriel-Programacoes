@@ -5,9 +5,9 @@ I'm a Full-Stack developer focused on building scalable enterprise applications 
 ## 🚀 About me
 
 * Architecting and developing fast, accessible web applications with **Next.js**, **React**, and **TypeScript** (leveraging **Tailwind CSS** and **Radix UI**).
-* Building secure and scalable backend services and APIs using **C# .NET** and **Node.js**.
-* Managing relational databases and complex data modeling with **PostgreSQL**.
+* Building services and managing relational databases with **Node.js** and **PostgreSQL**.
 * Carrying a solid programming foundation in **Python** and **C** for scripting and logical problem-solving.
+* Experienced in collaborating within multidisciplinary teams, seamlessly integrating modern frontends with robust enterprise backends.
 * Always focused on clean code practices, security, and building efficient corporate tools.
 
 ## 💻 Tech Stack
@@ -23,8 +23,6 @@ I'm a Full-Stack developer focused on building scalable enterprise applications 
 
 ### Backend, Database & Scripts
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

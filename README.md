@@ -36,6 +36,7 @@ I'm a Full-Stack developer focused on building scalable enterprise applications 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **MetaHub** | *Closed Source.* Internal enterprise platform featuring modules for paralegal processes, contact & company management, IBAMA compliance, role-based permission system, and a secure mailbox — built with a .NET backend and Next.js frontend. | Next.js 15, React 19, TypeScript, Tailwind CSS, Radix UI, C# .NET, PostgreSQL | 🔒 Private |
+| **Marketonic** | Fullstack inventory management system featuring a terminal-style interface, smart stock alerts, and product expiration control. | React 19, TypeScript, Node.js, Express, PostgreSQL, Prisma, Material UI | [Repository](https://github.com/gabriel-programacoes/marketonic) |
 
 ## 📈 GitHub Stats
 

@@ -57,10 +57,10 @@ These are commercial or enterprise projects. Their source code is private due to
 
 I'm open to discussing software development, professional opportunities, and interesting technical challenges.
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
-- **Location:** City, State, Brazil
+- **Email:** [bielg6055@gmail.com](mailto:bielg6055@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ghalvess](https://www.linkedin.com/in/ghalvess)
+- **Portfolio:** [https://landingpages-hub.vercel.app](https://landingpages-hub.vercel.app)
+- **Location:** Aparecida de Goiânia, Goiás, Brazil
 
 ## GitHub Stats
 

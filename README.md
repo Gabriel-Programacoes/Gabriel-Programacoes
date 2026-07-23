@@ -36,13 +36,24 @@ I work across the stack with TypeScript, React, Next.js, Node.js, Python, and Po
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## Production Product
+
+### Desempata
+
+Desempata is a publicly available decision-making platform for groups. It supports shareable polls, anonymous voting, multiple decision methods, administrative workflows, and real-time updates.
+
+| Status | Tech Stack | Access |
+| :--- | :--- | :--- |
+| In production · Closed source | React, TypeScript, Node.js, PostgreSQL, Prisma, SSE | [Open Desempata](https://desempata.vercel.app) |
+
+The application is available for public use, but its source code remains private due to intellectual property and commercial considerations.
+
 ## Selected Private Work
 
 These are commercial or enterprise projects. Their source code is private due to intellectual property, contractual, or business requirements.
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Desempata** | Shareable decision-making platform with anonymous voting, multiple decision methods, administrative workflows, and real-time updates. | React, TypeScript, Node.js, PostgreSQL, Prisma, SSE |
 | **LicitaGoias** | Data pipeline for collecting, normalizing, classifying, and reporting public procurement opportunities. | Python, SQLite, Pandas, Playwright |
 | **MetaHub** | Enterprise operations platform combining administrative workflows, data management, notifications, and role-based access control. Developed in a professional team environment. | Next.js, React, TypeScript, .NET, PostgreSQL |
 

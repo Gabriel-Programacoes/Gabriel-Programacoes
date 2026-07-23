@@ -1,47 +1,69 @@
-# Hi there! 👋 I'm Gabriel
+# Hi, I'm Gabriel
 
-I'm a Full-Stack developer focused on building scalable enterprise applications and modern web interfaces. With a strong foundation in both frontend and backend technologies, I specialize in creating robust solutions from the database architecture to the final user experience.
+Full-stack developer building business applications, web products, and data automation tools.
 
-## 🚀 About me
+I work across the stack with TypeScript, React, Next.js, Node.js, Python, and PostgreSQL — from database modeling and backend services to accessible, production-ready interfaces.
 
-* Architecting and developing fast, accessible web applications with **Next.js**, **React**, and **TypeScript** (leveraging **Tailwind CSS** and **Radix UI**).
-* Building services and managing relational databases with **Node.js** and **PostgreSQL**.
-* Carrying a solid programming foundation in **Python** and **C** for scripting and logical problem-solving.
-* Experienced in collaborating within multidisciplinary teams, seamlessly integrating modern frontends with robust enterprise backends.
-* Always focused on clean code practices, security, and building efficient corporate tools.
+## About me
 
-## 💻 Tech Stack
+- Building responsive and accessible web applications with Next.js, React, TypeScript, Tailwind CSS, and Radix UI.
+- Developing backend services and relational data models with Node.js, PostgreSQL, and Prisma.
+- Creating Python pipelines for data collection, normalization, classification, and report generation.
+- Experienced in integrating modern frontends with enterprise systems and multidisciplinary development workflows.
+- Focused on maintainability, security, clear architecture, and solving real operational problems.
+
+## Tech Stack
 
 ### Frontend & UI
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend, Database & Scripts
+### Backend, Database & Automation
+
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### Tools & Version Control
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📁 Featured Projects
+## Selected Private Work
+
+These are commercial or enterprise projects. Their source code is private due to intellectual property, contractual, or business requirements.
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Desempata** | Shareable decision-making platform with anonymous voting, multiple decision methods, administrative workflows, and real-time updates. | React, TypeScript, Node.js, PostgreSQL, Prisma, SSE |
+| **LicitaGoias** | Data pipeline for collecting, normalizing, classifying, and reporting public procurement opportunities. | Python, SQLite, Pandas, Playwright |
+| **MetaHub** | Enterprise operations platform combining administrative workflows, data management, notifications, and role-based access control. Developed in a professional team environment. | Next.js, React, TypeScript, .NET, PostgreSQL |
+
+## Public Projects
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **MetaHub** | *Closed Source.* Internal enterprise platform featuring modules for paralegal processes, contact & company management, IBAMA compliance, role-based permission system, and a secure mailbox — built with a .NET backend and Next.js frontend. | Next.js 15, React 19, TypeScript, Tailwind CSS, Radix UI, C# .NET, PostgreSQL | 🔒 Private |
-| **Landing Pages HUB** | A monorepo of production-grade landing pages with isolated route groups, distinct design systems, and Vercel deployment. | Next.js 16, React 19, TypeScript, Tailwind CSS 4, Framer Motion, Radix UI, Zod | [Live](https://landingpages-hub.vercel.app) |
-| **Marketonic** | Fullstack inventory management system featuring a terminal-style interface, smart stock alerts, and product expiration control. | React 19, TypeScript, Node.js, Express, PostgreSQL, Prisma, Material UI | [Repository](https://github.com/gabriel-programacoes/marketonic) |
+| **Landing Pages HUB** | Collection of production-oriented landing pages with independent visual identities, responsive interfaces, and isolated routes. | Next.js, React, TypeScript, Tailwind CSS, Framer Motion | [Live Demo](https://landingpages-hub.vercel.app) · [Repository](https://github.com/Gabriel-Programacoes/LandingPages) |
+| **Marketonic** | Full-stack inventory management system with stock alerts, expiration tracking, and a terminal-inspired interface. | React, TypeScript, Node.js, Express, PostgreSQL, Prisma | [Repository](https://github.com/Gabriel-Programacoes/Marketonic) |
 
-## 📈 GitHub Stats
+## Contact
+
+I'm open to discussing software development, professional opportunities, and interesting technical challenges.
+
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- **Location:** City, State, Brazil
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-vercel-omega-seven.vercel.app/api?username=Gabriel-Programacoes&show_icons=true&theme=radical&locale=en&count_private=true&v=1" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats-vercel-omega-seven.vercel.app/api/top-langs/?username=Gabriel-Programacoes&layout=compact&theme=radical&count_private=true&v=1" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats-vercel-omega-seven.vercel.app/api?username=Gabriel-Programacoes&show_icons=true&theme=radical&locale=en&count_private=true&v=1" alt="Gabriel's GitHub stats" height="150"/>
 </p>
